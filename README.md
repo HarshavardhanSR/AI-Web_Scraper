@@ -1,2 +1,2 @@
-# AI-Web_Scraper
-An ai web scraper using llama3.2:1b
+# AI-Web-Scraper
+An AI web scraper using ollama, brightdata, selenium and other libraries.
