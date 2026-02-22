@@ -42,4 +42,17 @@ An intelligent web scraping tool that combines Selenium-based browser automation
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 2️⃣ Create .env
+
+```bash
+SBR_WEBDRIVER="your_brightdata_webdriver_url"
+```
+
+### 3️⃣ Run the app
+
+```bash
+streamlit run main.py
+```
 
